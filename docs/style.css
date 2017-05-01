@@ -1,0 +1,33 @@
+body{
+ 	background: lightblue;
+ 	margin: 0px auto;
+}
+
+.divmain1{
+	width: 1500px;
+	height: auto;
+	color: blue;
+	background: lightgreen;
+	border: 2px black solid;
+}
+
+.divmain2{
+	width: 300px;
+	height: auto;
+	color: blue;
+	background: lightgreen;
+	border: 2px black solid;
+}
+
+.divmain3{
+	width: 100px;
+	height: auto;
+	color: blue;
+	background: lightgreen
+	border: 2px black solid;
+}
+
+.text{
+	color:green ;
+	font: 40pt Arial black;
+}
