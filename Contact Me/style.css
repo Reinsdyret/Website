@@ -1,0 +1,29 @@
+body{
+ 	background: lightblue;
+ 	margin: 0px auto;
+}
+
+.divmain1{
+	width: 1000px;
+	height: auto;
+	color: blue;
+	background: lightgreen;
+	border: 2px black solid;
+	float: center;
+}
+.divmain{
+	width: 1000px;
+	height: auto;
+	color: blue;
+	background: lightgreen;
+	border: 2px black solid;
+	float: right;
+}
+.divmain3{
+	width: 1000px;
+	height: auto;
+	color: blue;
+	background: lightgreen;
+	border: 2px black solid;
+	float: left;
+}
