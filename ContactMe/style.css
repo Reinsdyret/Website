@@ -4,15 +4,15 @@ body{
 }
 
 .divmain1{
-	width: 1000px;
+	width: 500px;
 	height: auto;
 	color: blue;
 	background: lightgreen;
 	border: 2px black solid;
 	float: center;
 }
-.divmain{
-	width: 1000px;
+.divmain2{
+	width: 500px;
 	height: auto;
 	color: blue;
 	background: lightgreen;
@@ -20,7 +20,7 @@ body{
 	float: right;
 }
 .divmain3{
-	width: 1000px;
+	width: 500px;
 	height: auto;
 	color: blue;
 	background: lightgreen;
