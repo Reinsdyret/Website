@@ -4,7 +4,7 @@ body{
 }
 
 .divmain1{
-	width: 500px;
+	width: 250px;
 	height: auto;
 	color: blue;
 	background: lightgreen;
@@ -12,7 +12,7 @@ body{
 	float: center;
 }
 .divmain2{
-	width: 500px;
+	width: 250px;
 	height: auto;
 	color: blue;
 	background: lightgreen;
@@ -20,7 +20,7 @@ body{
 	float: right;
 }
 .divmain3{
-	width: 500px;
+	width: 250px;
 	height: auto;
 	color: blue;
 	background: lightgreen;
