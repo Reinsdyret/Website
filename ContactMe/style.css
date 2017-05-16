@@ -1,29 +1,17 @@
 body{
- 	background: lightblue;
- 	margin: 0px auto;
+    background: lightblue;
+    margin: 0px auto;
+    text-align: center;
+    padding: 50px;
 }
 
-.divmain1{
-	width: 250px;
-	height: auto;
-	color: blue;
-	background: lightgreen;
-	border: 2px black solid;
-	float: center;
+.larsdiv{
+    width: 250px;
+    height: auto;
+    color: blue;
+    background: lightgreen;
+    border: 2px black solid;
+    display: inline-block;
+    margin-bottom: 10px;
 }
-.divmain2{
-	width: 250px;
-	height: auto;
-	color: blue;
-	background: lightgreen;
-	border: 2px black solid;
-	float: right;
-}
-.divmain3{
-	width: 250px;
-	height: auto;
-	color: blue;
-	background: lightgreen;
-	border: 2px black solid;
-	float: left;
-}
+
