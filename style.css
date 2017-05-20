@@ -6,7 +6,6 @@ body{
 .divmain1{
 	width: 1500px;
 	height: auto;
-	color: blue;
 	background: lightgreen;
 	border: 2px black solid;
 }
@@ -14,7 +13,6 @@ body{
 .divmain2{
 	width: 300px;
 	height: auto;
-	color: blue;
 	background: lightgreen;
 	border: 2px black solid;
 }
@@ -22,7 +20,6 @@ body{
 .divmain3{
 	width: 100px;
 	height: auto;
-	color: blue;
 	background: lightgreen
 	border: 2px black solid;
 }
@@ -30,7 +27,6 @@ body{
 .linkdiv{
     width: 250px;
     height: auto;
-    color: blue;
     background: lightgreen;
     border: 2px black solid;
     display: inline-block;
