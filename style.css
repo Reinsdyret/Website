@@ -27,6 +27,16 @@ body{
 	border: 2px black solid;
 }
 
+.linkdiv{
+    width: 250px;
+    height: auto;
+    color: blue;
+    background: lightgreen;
+    border: 2px black solid;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
 .text{
 	color:green ;
 	font: 40pt Arial black;
