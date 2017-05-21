@@ -17,3 +17,12 @@ body{
 .snapchat{
   float: right;
 }
+
+.github{
+  width: 250px;
+  height: auto;
+  background: lightgreen;
+  border: 2px black solid;
+  display: inline-block;
+  margin-bottom: 10px;
+}
